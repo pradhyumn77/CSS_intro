@@ -1,0 +1,28 @@
+h1{
+    
+   
+    text-decoration: line-through;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red;
+
+}
+
+h2{
+    border: 7px solid black;
+}
+
+
+
+p{
+    
+
+    text-transform: uppercase;
+}
+
+h3{
+
+border-color: black;
+border-width: 6px;
+
+}
